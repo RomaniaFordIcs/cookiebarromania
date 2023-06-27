@@ -103,18 +103,18 @@
     text-decoration: none;
 }
 #cookie-bar-button {
-    border: solid 1px #bea525;
+    border: solid 1px #fffff;
 }
 #cookie-bar-button:hover {
     text-decoration: none !important;
-    background-color: #bea525;
+    background-color: #fffff;
 }
 #cookie-bar-button-no {
     border: solid 1px #A57341;
 }
 #cookie-bar-button-no:hover {
     text-decoration: none !important;
-    background-color: #bea525;
+    background-color: #fffff;
 }
 
 #cookie-bar-prompt a {
